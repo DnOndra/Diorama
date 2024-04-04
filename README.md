@@ -5,4 +5,3 @@ Tento kód vygeneruje na stránce měsíc s hvězdama které se pohybují jak vl
 
 Zapojeno HTML, CSS, JavaScript.
 
-(Bylo vytvořeno za pomocí výukových zdrojů jako je w3schools, youtube apod..)
